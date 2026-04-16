@@ -1,2 +1,2 @@
-# AllPhotos
-AllPhotos
+# MyProfile
+MyProfile
