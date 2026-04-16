@@ -10,9 +10,6 @@ I'm Anmol, a full-stack developer with a passion for creating clean, efficient c
 
 ### Programming Languages
 - JavaScript/TypeScript
-- Python
-- Java
-- C++
 
 ### Frontend Development
 - React
@@ -21,7 +18,8 @@ I'm Anmol, a full-stack developer with a passion for creating clean, efficient c
 - UI/UX Best Practices
 
 ### Backend Development
-- Node.js
+- .Net MVC
+- .Net Core
 - RESTful APIs
 - Database Design (SQL & NoSQL)
 - API Security
@@ -30,17 +28,17 @@ I'm Anmol, a full-stack developer with a passion for creating clean, efficient c
 - Git & GitHub
 - Docker
 - AWS
-- MongoDB
-- PostgreSQL
+- Azure
 
 ## Projects
 
 Here are some of my notable projects:
 
-### Project 1: [Project Name]
-A brief description of what this project does and the technologies used.
-- **Technologies**: React, Node.js, MongoDB
-- **Repository**: [Link to repo]
+### Project 1: [Core Logistic Private Limited ]
+Core Logistic Private Limited is an Indian company established in 2004, headquartered in Chandigarh, 
+specializing in end-to-end logistics, including warehousing, inventory management, and transport services
+- **Technologies**: .Net MVC with SQL Server
+- **Repository**: [(https://github.com/Anmolkrch)]
 
 ### Project 2: [Project Name]
 Description of this project and its key features.
